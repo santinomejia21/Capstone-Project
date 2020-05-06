@@ -1,6 +1,8 @@
-print ('Hello Github')
+This notebook will mainly be used for my Capstone Project
 
-print ("This notebook will be used for my capstone project")
+import pandas as pd
 
-import pandas as pd 
+import numpy as np
+
+print ('Hello Capstone Project Course!')
 
